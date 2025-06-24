@@ -14,8 +14,8 @@ global.location = "Nigeria" //ur location
 
 //new
 global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '16582044119' //ur owner number
-global.ownername = '©Precious Ayomide' //ur owner name
+global.ownernumber = '447818337909' //ur owner number
+global.ownername = 'MichaelChatBot' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.idch = '120363322892680943@newsletter'
@@ -24,20 +24,20 @@ global.wm = "NYX👸"
 global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
 global.packname = "Queen Nyx👸"
 global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.creator = "447818337909@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["447818337909", "anothernumber"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
 //bot sett
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v4' // reply type 'v1' => 'v3'
-global.autoblocknumber = '' //set autoblock country code
+global.autoblocknumber = '91' //set autoblock country code
 global.antiforeignnumber = '' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.welcome = true //welcome/left in groups
+global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
