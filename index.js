@@ -26,3 +26,11 @@ function start() {
       })
 }
 start()
+// Dummy Express server to prevent Heroku from crashing (R10 error)
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.get('/', (req, res) => res.send('QUEEN NYX BOT is running!'));
+app.listen(PORT, () => console.log(`Dummy web server running on port ${PORT}`));
+
