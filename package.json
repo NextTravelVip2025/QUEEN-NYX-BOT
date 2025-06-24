@@ -2,7 +2,6 @@
   "name": "Queen-Nyx-V1",
   "version": "1.0.0",
   "description": "Whatsapp Bot By Precious Ayomide",
-  "main": "main/index.js",
   "type": "commonjs",
   "directories": {
     "lib": "lib",
